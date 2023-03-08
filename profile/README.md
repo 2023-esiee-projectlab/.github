@@ -1,4 +1,4 @@
-# Salut à toi visiteur !
+# Bienvenue à toi visiteur !
 
 Nous sommes un groupe de développeurs de la branche M2I à l'IESIEE-IT Pontoise en spécialité ISL de la promotion 2023.
 
