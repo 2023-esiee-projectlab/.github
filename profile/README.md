@@ -7,4 +7,4 @@ Il est donc normal de distinguer des dépôts qui soit Fork d'anciens dépôts d
 
 Nous vous souhaitons une très bonne visite au sein de celle-ci.
 
-> ***** M2I ILS : Manager en Ingénirie Informatique spécialité Ingéniere Logiciel et Système.
+> **NB:** M2I ILS : Manager en Ingénirie Informatique spécialité Ingéniere Logiciel et Système.
