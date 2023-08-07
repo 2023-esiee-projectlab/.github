@@ -2,6 +2,9 @@
 
 Bienvenue sur notre organisation qui centralise tous nos dépôts réalisés à l'ESIEE-IT.
 
+> **ATTENTION**: D'ici quelques mois, le nom de compte de l'organisation passera de _2023-**esiee**-projectlab_ à _2023-**esiee-it**-projectlab_. \
+> Car cela fut une erreur de nommage</span>.
+
 ### Qui sommes nous ?
 
 Nous sommes un groupe de développeurs de la branche M2I à l'IESIEE-IT Pontoise en spécialité ISL de la promotion 2023.
